@@ -34,6 +34,35 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
 </div>
 <hr/>
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tryraisins&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryraisins&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tryraisins&hide_border=true" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> HPHP 15 da1*** (i5 8th gen)</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	   </ul>	
+</details>
+
+
 
 
 
