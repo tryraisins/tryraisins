@@ -56,7 +56,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
-	    <li><b>Laptop: </b> HPHP 15 da1*** (i5 8th gen)</li>
+	    <li><b>Laptop: </b> HP 15 da1* (Core i5 8th gen)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	   </ul>	
