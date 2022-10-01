@@ -1,7 +1,7 @@
 ### Hi there 👋,
 <hr>
 <div id="header" align="center">
-  ![Animated GIF](banner.gif?raw=true "Optional Title")
+  <img src="./banner.gif" width="200"/>
 </div>
 
 I am the one and only TryRaisins.
@@ -15,7 +15,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://tryraisins.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
   </div>
 <hr/>
@@ -28,7 +28,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next JS" alt="NEXT JS" width="40" height="40"/>&nbsp;
-  <img src=https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="Vue JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
   
 </div>
