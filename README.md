@@ -8,7 +8,7 @@ I am the one and only TryRaisins.
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, specifically Frontend using ReactJS, Vue and NextJS frameworks.
 
-If you'd love to collborate with or reach out to me, hit me up on any of my socials!
+If you'd love to collborate with or reach out to me, hit me up on my socials or leave a message on my webpage below!
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/seun-sowemimo-8518b7249/" target="_blank">
