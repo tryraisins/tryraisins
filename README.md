@@ -15,7 +15,7 @@ If you'd love to collborate with or reach out to me, hit me up on any of my soci
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
   </a>
   <a href="https://tryraisins.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
   </a>
   </div>
 <hr/>
